@@ -1,0 +1,30 @@
+{
+  "name": "web-reload",
+  "version": "1.0.0",
+  "description": "CLI for refreshing the browser while developing basic front-end projects.",
+  "main": "lib/server.js",
+  "bin": {
+    "web-reload": "bin/web-reload.js",
+    "webreload": "bin/web-reload.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "restart",
+    "web-reload",
+    "reload",
+    "autoload",
+    "auto-load",
+    "command",
+    "command-line",
+    "commandline"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-soft": "^1.0.0",
+    "ws": "^8.17.0"
+  }
+}
