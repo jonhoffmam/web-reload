@@ -7,13 +7,13 @@ web-reload is a simple CLI for auto-reloading web applications with each change 
 Install web-reload globally with [**npm**](http://npmjs.org/) using the command below to use in your terminal:
 
 ```bash
-npm install -g web-reload
+npm install -g @jonhoffmam/web-reload
 ```
 
 You can also install web-reload as a development dependency:
 
 ```bash
-npm install --save-dev web-reload
+npm install --save-dev @jonhoffmam/web-reload
 ```
 
 # Usage
